@@ -21,7 +21,6 @@ You have won!<br>
 - Scanner (for user input)
 
 ## 📂 File Structure:
-- `Mad_libs_game.java` → Main Java program for Mad Libs game.
 - `Number_Guessing_Game.java` → Main Java program for the Number Guessing Game.
 
 ## 📜 License:
