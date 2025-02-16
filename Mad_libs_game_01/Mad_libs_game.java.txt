@@ -27,3 +27,17 @@ public class Mad_libs_game_01 {
 		sc.close();
 	}
 }
+
+
+OUTPUT:
+
+Enter an adjective (Description): suspicious
+Enter a noun (animal or person): Mark
+Enter an adjective (Description): smelly
+Enter a verb end with -ing (action): screaming
+Enter an adjective (Description): happy
+
+Today I went to a suspicious zoo.
+In an exhibit, I saw a Mark.
+Mark was smelly and screaming!
+I was happy!
